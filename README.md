@@ -34,9 +34,7 @@ I started and finished this project in February 2023.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/odin-weather-app/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-odin-weather-app.pages.dev)
 
 ## Screenshots
 
@@ -62,7 +60,7 @@ I started and finished this project in February 2023.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/odin-weather-app.git
 
 # install project dependencies
 npm install
