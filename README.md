@@ -40,7 +40,7 @@ I started and finished this project in February 2023.
 
 ### Desktop
 
-![Desktop Screenshot](screenshots/desktop.png)
+![Desktop Screenshot](screenshots/desktop.gif)
 
 ### Mobile
 
